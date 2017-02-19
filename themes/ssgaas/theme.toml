@@ -8,7 +8,7 @@ description = "Hugo FAQ Theme for SSGAAS"
 homepage = "http://ssgaas.com/"
 tags = []
 features = []
-min_version = 0.18
+min_version = 0.15
 
 [author]
   name = "Raul Perez"
