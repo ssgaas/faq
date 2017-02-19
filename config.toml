@@ -1,4 +1,4 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "http://example.org/"
+title = "SSGAAS FAQ"
+baseURL = "http://ssgaas.com/"
 theme = "ssgaas"
