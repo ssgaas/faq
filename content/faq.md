@@ -3,8 +3,6 @@ date = "2017-02-19T19:49:38+01:00"
 title = "Frequently Asked Questions"
 draft = false
 description = "Frequently Asked Questions for ssgaas.com"
-topics = ["faq"]
-tags = ["faq"]
 
 +++
 
